@@ -1,4 +1,5 @@
-# 毛囊密度检测
+# 毛囊密度计算
+Calculation of follicle density
 
 
 
